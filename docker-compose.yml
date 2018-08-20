@@ -1,0 +1,39 @@
+version: '2'
+
+services:
+
+  wordpress:
+    image: wordpress
+    volumes:
+      - ./wp-content:/var/www/html/wp-content/
+    restart: always
+    depends_on:
+      - mysql
+    links: 
+      - mysql
+    environment:
+      WORDPRESS_DB_HOST: mysql
+      WORDPRESS_DB_NAME: kasasport
+      WORDPRESS_DB_PASSWORD: 123
+    ports:
+      - "80:80"
+  mysql:
+    image: mysql:5.7
+    container_name: db
+    volumes:
+      - wp_data:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123
+      MYSQL_DATABASE: kasasport
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: admindb
+    ports:
+      - "8080:80"
+    depends_on:
+      - mysql
+    environment:
+     - PMA_ARBITRARY=1
+volumes:
+  wp_data:

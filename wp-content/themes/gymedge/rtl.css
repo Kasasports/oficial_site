@@ -1,0 +1,33 @@
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.site-header .main-navigation ul li .sub-menu li.menu-item-has-children::after {
+	content: "\f104";
+}
+.rt-owl-nav-1 .owl-custom-nav .owl-next {
+	margin-right: 0;
+}
+.rt-owl-nav-1 .owl-custom-nav .owl-prev {
+	margin-right: 4px;
+}
+.trainer-info span {
+	float: right;
+}
+.rt-wpls .wpls-carousel .slick-prev::before {
+	content: "\f105";
+}
+.rt-wpls .wpls-carousel .slick-next::before {
+	content: "\f104";
+}
+.pagination-area .fa-angle-double-right::before {
+	content: "\f100";
+}
+.pagination-area .fa-angle-double-left::before {
+	content: "\f101";
+}
+.woocommerce #respond input#submit,
+.woocommerce a.button, .woocommerce button.button,
+.woocommerce input.button {
+	padding: 10px 22px;
+}

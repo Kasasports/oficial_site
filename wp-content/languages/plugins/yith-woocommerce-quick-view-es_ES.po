@@ -1,0 +1,921 @@
+# Translation of Plugins - YITH WooCommerce Quick View - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - YITH WooCommerce Quick View - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-13 19:45:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - YITH WooCommerce Quick View - Stable (latest release)\n"
+
+#: plugin-fw/lib/yit-upgrade.php:89
+msgid "An unexpected error occurred, please try again later. Thanks!"
+msgstr "Ha ocurrido un error inesperado, por favor, inténtalo de nuevo más tarde. ¡Gracias!"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:72
+msgctxt "Privacy Policy Content"
+msgid "Payments"
+msgstr "Pagos"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:69
+msgctxt "Privacy Policy Content"
+msgid "What we share with others"
+msgstr "Qué compartimos con otros"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:66
+msgctxt "Privacy Policy Content"
+msgid "Who on our team has access"
+msgstr "Quién en nuestro equipo tiene acceso"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:63
+msgctxt "Privacy Policy Content"
+msgid "What we collect and store"
+msgstr "Qué recopilamos y almacenamos"
+
+#: plugin-fw/lib/privacy/yit-privacy.php:59
+msgctxt "Privacy Policy Content"
+msgid "This sample language includes the basics around what personal data your store may be collecting, storing and sharing, as well as who may have access to that data. Depending on what settings are enabled and which additional plugins are used, the specific information shared by your store will vary. We recommend consulting with a lawyer when deciding what information to disclose on your privacy policy."
+msgstr "Este lenguaje de ejemplo incluye información básica sobre los datos personales que tu tienda puede recopilar, almacenar y compartir, así como quién puede tener acceso a esos datos. Según la configuración que esté habilitada y los plugins adicionales que se utilicen, la información específica que comparta tu tienda variará. Recomendamos consultar con un abogado al decidir qué información divulgar en tu política de privacidad."
+
+#: plugin-fw/lib/privacy/yit-privacy.php:24
+msgctxt "Privacy Policy Guide Title"
+msgid "YITH Plugins"
+msgstr "Plugins de YITH"
+
+#: plugin-fw/templates/fields/ajax-products.php:16
+msgid "Search Product"
+msgstr "Buscar producto"
+
+#: plugin-fw/templates/fields/ajax-posts.php:58
+msgid "Search Posts"
+msgstr "Buscar publicaciones"
+
+#: plugin-fw/templates/fields/icons.php:58
+msgid "Set Default"
+msgstr "Establecer por defecto"
+
+#: plugin-fw/templates/fields/select-buttons.php:33
+msgid "Deselect All"
+msgstr "Deseleccionar todo"
+
+#: plugin-fw/templates/fields/select-buttons.php:26
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:97
+msgid "Club Subscription"
+msgstr "Suscripción al club"
+
+#: plugin-fw/licence/lib/yit-licence.php:686
+msgid "Current product is not included in your YITH Club Subscription key"
+msgstr "El producto actual no está incluido en tu clave de suscripción al Club YITH"
+
+#. Author URI of the plugin/theme
+msgid "https://yithemes.com/"
+msgstr "https://yithemes.com/"
+
+#. Author of the plugin/theme
+msgid "YITHEMES"
+msgstr "YITHEMES"
+
+#. Description of the plugin/theme
+msgid "YITH WooCommerce Quick View allows your users to have a quick look about products."
+msgstr "YITH WooCommerce Quick View permite a los usuarios tener una vista rápida de sus productos."
+
+#. Plugin URI of the plugin/theme
+msgid "https://yithemes.com/themes/plugins/yith-woocommerce-quick-view"
+msgstr "https://yithemes.com/themes/plugins/yith-woocommerce-quick-view"
+
+#: templates/admin/premium.php:353
+msgid "Thanks to the compatibility with %1$sYITH WooCommerce Zoom Magnifier, YITH WooCommerce Badge Management%2$s and %1$sYITH WooCommerce Wishlist%2$s, you will be free to enrich further the content of your quick view.%3$s Zoom the product image, show a badge, or add the button to open the quick view in all products available in your users' wishlists. With YITH's plugins you make the difference."
+msgstr "Gracias a la compatibilidad con %1$sYITH WooCommerce Zoom Magnifier, YITH WooCommerce Badge Management%2$s y %1$sYITH WooCommerce Wishlist%2$s, podrás enriquecer aún más el contenido de tu vista rápida.%3$s Amplía la imagen del producto, muestra una insignia o agrega el botón para abrir la vista rápida en todos los productos disponibles en las listas de deseos de tus usuarios. Con los plugins de YITH haces la diferencia."
+
+#: templates/admin/premium.php:351
+msgid "Compatibility with other YITH's plugins"
+msgstr "Compatibilidad con otros plugins de YITH"
+
+#: templates/admin/premium.php:342
+msgid "The shortcode of plugin is a $1$srapid$2$s and $1$seasy$2$s solution: you can add a button in any spot of the page to allow your users to see the quick view of a specific product in your store."
+msgstr "El shortcode del plugin es una $1$srápidas$2$s y $1$sfácil$2$s solución: puedes añadir un botón en cualquier punto de la página para permitir a los usuarios ver una vista rápida de un producto específico en tu tienda."
+
+#: templates/admin/premium.php:340
+msgid "SHORTCODE"
+msgstr "SHORTCODE"
+
+#: templates/admin/premium.php:325
+msgid "A rich option panel to change the colors of the %1$s\"Quick View\"%2$s button and of everything that is within the modal window generated."
+msgstr "Un rico panel de opciones para cambiar los colores del botón%1$s \"Vista rápida\"%2$s y de todo lo que está dentro de la ventana modal generada."
+
+#: templates/admin/premium.php:314
+msgid "%1$sQuick View is also social-friendly!%2$s Activating this option, you will be able to share the Quick View on Facebook, Twitter, Pinterest, Google+, or sending an email."
+msgstr "Quick View%1$s también es compatible con las redes sociales.%2$s Al activar esta opción, podrás compartir la vista rápida en Facebook, Twitter, Pinterest, Google+ o enviar un correo electrónico."
+
+#: templates/admin/premium.php:312
+msgid "SHARE"
+msgstr "COMPARTIR"
+
+#: templates/admin/premium.php:297
+msgid "Each product can have more than one image: choose whether to hide or show them with the %1$sslider%2$s effect or in the classic %1$sWooCommerce%2$s display."
+msgstr "Cada producto puede tener más de una imagen: elige si ocultar o mostrarlas con el efecto %1$scarrusel%2$s o mostrar el clásico de %1$sWooCommerce%2$s"
+
+#: templates/admin/premium.php:295
+msgid "Type of product images"
+msgstr "Tipo de imágenes de producto"
+
+#: templates/admin/premium.php:286
+msgid "An additional button that allows users to access product detail page directly from quick view window just with a click of the mouse."
+msgstr "Un botón adicional que permite a los usuarios acceder a la página de detalle del producto directamente desde la ventana de vista rápida con un solo clic del ratón."
+
+#: templates/admin/premium.php:284
+msgid "\"View details\" button"
+msgstr "Botón de ''Ver detalles''"
+
+#: templates/admin/premium.php:272
+msgid "Quick view type"
+msgstr "Tipo de vista rápida"
+
+#: templates/admin/premium.php:269
+msgid "Quick view has two different displaying modes: the first one opens it as a %1$smodal window%2$s, the other one opens it in the page itself with a %1$scascading effect%2$s above content page."
+msgstr "Quick View tiene dos modos de visualización: el primero lo abre como una %1$sventana modal%2$s, el otro lo abre en la propia página con un %1$sefecto cascada%2$s sobre la página de contenido."
+
+#: templates/admin/premium.php:267
+msgid "Quick View Type"
+msgstr "Tipo de vista rápida"
+
+#: templates/admin/premium.php:258
+msgid "The display of the product information in the \"Quick View\" are managed by %1$sadministrators%2$s who can decide whether to show everything or only a part of it."
+msgstr "La visualización de la información del producto en \"Vista rápida\" es administrada por los %1$sadministradores%2$s, quienes pueden decidir si mostrar todo o solo una parte."
+
+#: templates/admin/premium.php:255 templates/admin/premium.php:256
+msgid "Content to display"
+msgstr "Contenido a mostrar"
+
+#: templates/admin/premium.php:241
+msgid "The navigation in the \"Quick View\" allows browsing among %1$sproducts%2$s displayed in it. The navigation arrows show on mousehover the image of the next/previous product."
+msgstr "La navegación en la \"Vista rápida\" permite navegar entre%1$sproductos%2$s en ella. Las flechas de navegación muestran al pasar el ratón sobre la imagen del producto siguiente / anterior."
+
+#: templates/admin/premium.php:238 templates/admin/premium.php:239
+#: templates/admin/premium.php:244
+msgid "Product Navigation"
+msgstr "Navigación de producto"
+
+#: templates/admin/premium.php:230
+msgid "Choose between the button or a custom icon to access the %1$sQuick View%2$s: you can choose to place it after the \"Add To Cart\" button or inside the thumbnail of the product."
+msgstr "Elige entre el botón o un icono personalizado para acceder a%1$sVista rápida%2$s: puedes optar por colocarlo después del botón \"Añadir al carrito\" o dentro de la miniatura del producto."
+
+#: templates/admin/premium.php:228
+msgid "BUTTON TYPE"
+msgstr "TIPO DE BOTÓN"
+
+#: templates/admin/premium.php:223
+msgid "Button type"
+msgstr "Tipo de botón"
+
+#: templates/admin/premium.php:220
+msgid "Premium Features"
+msgstr "Características premium"
+
+#: templates/admin/premium.php:214 templates/admin/premium.php:368
+msgid "to the premium version"
+msgstr "a la versión premium"
+
+#: templates/admin/premium.php:213 templates/admin/premium.php:367
+msgid "UPGRADE"
+msgstr "MEJORAR"
+
+#: templates/admin/premium.php:210 templates/admin/premium.php:364
+msgid "Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Quick View%2$s to benefit from all features!"
+msgstr "¡Mejorar a la %1$sversión premium%2$s de %1$sYITH WooCommerce Quick View%2$s para beneficiarte de todas las características!"
+
+#: plugin-options/settings-options.php:74
+msgid "Closing Button Hover Color"
+msgstr "Color al pasar el cursor sobre el botón de cerrar"
+
+#: plugin-options/settings-options.php:66
+msgid "Closing Button Color"
+msgstr "Color del botón de cerrar"
+
+#: plugin-options/settings-options.php:58
+msgid "Modal Window Background Color"
+msgstr "Color de fondo de la ventana modal"
+
+#: plugin-options/settings-options.php:51 templates/admin/premium.php:323
+#: templates/admin/premium.php:328
+msgid "Style Options"
+msgstr "Opciones de estilo"
+
+#: plugin-options/settings-options.php:40
+msgid "Enable lightbox. Product images will open in a lightbox."
+msgstr "Activar la caja de luz. Las imagenes del producto se abrirar en una caja de luz."
+
+#: plugin-options/settings-options.php:39
+msgid "Enable Lightbox"
+msgstr "Activar caja de luz"
+
+#: plugin-options/settings-options.php:32
+msgid "Label for the quick view button in the WooCommerce loop."
+msgstr "Etiqueta para el botón de vista rápida en loop de WooCommerce."
+
+#: plugin-options/settings-options.php:31
+msgid "Quick View Button Label"
+msgstr "Etiqueta de botón de vista rápida"
+
+#: plugin-options/settings-options.php:24
+msgid "Enable quick view features on mobile device too"
+msgstr "Activar características de vista rápida también en dispositvos móviles"
+
+#: plugin-options/settings-options.php:23
+msgid "Enable Quick View on mobile"
+msgstr "Activar Quick View en móvil"
+
+#: plugin-options/settings-options.php:16
+msgid "Enable Quick View"
+msgstr "Activar Quick View"
+
+#: plugin-options/settings-options.php:8
+msgid "General Options"
+msgstr "Opciones generales"
+
+#. Plugin Name of the plugin/theme
+msgid "YITH WooCommerce Quick View"
+msgstr "YITH WooCommerce Quick View"
+
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:17
+msgid "Reset Defaults"
+msgstr "Restablecer por defectos"
+
+#: plugin-fw/templates/fields/upload.php:19
+msgid "Reset"
+msgstr "Restablecer"
+
+#: plugin-fw/templates/fields/sidebars.php:52
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/fields/sidebars.php:39
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/fields/sidebars.php:41
+#: plugin-fw/templates/fields/sidebars.php:54
+msgid "Choose a sidebar"
+msgstr "Elige una barra lateral"
+
+#: plugin-fw/templates/fields/sidebars.php:25
+msgid "Right sidebar"
+msgstr "Barra lateral derecha"
+
+#: plugin-fw/templates/fields/sidebars.php:28
+#: plugin-fw/templates/fields/sidebars.php:31
+msgid "No sidebar"
+msgstr "Sin barra lateral"
+
+#: plugin-fw/templates/fields/sidebars.php:22
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete"
+msgstr "Eliminar"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add images"
+msgstr "Añadir imagenes"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add to gallery"
+msgstr "Añadir a la galería"
+
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Add Images to Gallery"
+msgstr "Añadir imágenes a la galería"
+
+#: plugin-fw/templates/fields/image-gallery.php:34
+#: plugin-fw/templates/fields/image-gallery.php:39
+msgid "Delete image"
+msgstr "Eliminar imagen"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:92
+msgid "(Default: <i %s></i> )"
+msgstr "(Por defecto: <i %s></i> )"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:90
+msgid "(Default: %s <img src=\"%s\"/>)"
+msgstr "(Por defecto: %s <img src=\"%s\"/>)"
+
+#: plugin-fw/templates/fields/customtabs.php:106
+msgid "Do you want to remove the custom tab?"
+msgstr "¿Quieres eliminar la pestaña personalizada?"
+
+#: plugin-fw/templates/fields/customtabs.php:65
+msgid "Add custom product tab"
+msgstr "Añadir pestaña de producto personalizada"
+
+#: plugin-fw/templates/fields/customtabs.php:53
+#: plugin-fw/templates/fields/customtabs.php:95
+msgid "Content of the tab. (HTML is supported)"
+msgstr "Contenido de la pestaña. (compatible con HTML)"
+
+#: plugin-fw/templates/fields/customtabs.php:52
+#: plugin-fw/templates/fields/customtabs.php:94
+msgid "Value"
+msgstr "Valor"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Expand all"
+msgstr "Expandir todo"
+
+#: plugin-fw/templates/fields/customtabs.php:28
+msgid "Close all"
+msgstr "Cerrar todo"
+
+#: plugin-fw/templates/metaboxes/types/icon-list.php:76
+msgid "Image preview"
+msgstr "Vista previa de imagen"
+
+#: plugin-fw/templates/fields/upload.php:18
+#: plugin-fw/templates/metaboxes/types/icon-list.php:70
+#: plugin-fw/templates/panel/woocommerce/woocommerce-upload.php:40
+msgid "Upload"
+msgstr "Subir"
+
+#: plugin-fw/templates/fields/customtabs.php:37
+#: plugin-fw/templates/fields/customtabs.php:81
+msgid "Remove"
+msgstr "Eliminar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:228
+msgid "Renew license"
+msgstr "Renovar licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:226
+msgid "Order again"
+msgstr "Hacer pedido de nuevo"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:190
+msgid "Expired"
+msgstr "Caducada"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:160
+msgid "Banned"
+msgstr "Bloqueada"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:147
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:204
+msgid "Renew"
+msgstr "Renovar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:142
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:126
+msgid "%1s out of %2s"
+msgstr "A%1s de %2s"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:101
+msgid "License Actions"
+msgstr "Acciones de licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:95
+msgid "Remaining"
+msgstr "Restantes"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:92
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:201
+msgid "Expires"
+msgstr "Caduca"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:86
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:164
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:194
+msgid "Product Name"
+msgstr "Nombre del producto"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:80
+msgid "Activated"
+msgstr "Activada"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:61
+msgid "Activate"
+msgstr "Activar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:42
+msgid "Product to activate"
+msgid_plural "Products to activate"
+msgstr[0] "Producto por activar"
+msgstr[1] "Productos por activar"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:29
+msgid "Update license information"
+msgstr "Actualizar información de licencia"
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:27
+msgid "Have you updated your licenses? Have you asked for an extension? Update information concerning your products."
+msgstr "¿Has actualizado tus licencias?, ¿Has solicitado una extensión? Actualiza la información acerca de tus prodcutos."
+
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:23
+msgid "Yithemes License Activation"
+msgstr "Licencia de activación de Yithemes"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:163
+msgid ""
+"If you have purchased one of our products before 27 January 2015, you can benefit from support and updates (the services offered with the license)\n"
+"                    until 27 January 2016 and you do not have to purchase it again to get a new license key, because, before this date, your license used to be activated automatically by our system.\n"
+"                    After 27 January 2016, instead, if you want to benefit from support and updates you have to buy a new license and activate it through the license key you will be\n"
+"                    provided with and that you can find in your YIThemes account, in section \"My licenses\"."
+msgstr ""
+"Si has comprado uno de nuestros productos antes del 27 de enero de 2015, puedes beneficiarte de soporte y actualizaciones (los servicios ofrecidos con la licencia) \n"
+"                     hasta el 27 de enero de 2016 y no tienes que volver a comprarlo para obtener una nueva clave de licencia, porque, antes de esa fecha, tu licencia solía ser activada automáticamente por nuestro sistema.\n"
+"                     Después del 27 de enero de 2016, en cambio, si deseas beneficiarte de soporte y actualizaciones, debes comprar una nueva licencia y activarla a través de la clave de licencia\n"
+"                     provista y que puedes encontrar en tu cuenta YIThemes, en la sección \"Mis licencias\"."
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:159
+msgid "I cannot find the license key for activating the theme I have bought some time ago. Where can I find it?"
+msgstr "No puedo encontrar la clave de licencia para activar el tema que compré hace tiempo. ¿Dónde puedo encontrarla?"
+
+#: plugin-fw/licence/lib/yit-theme-licence.php:117
+#: plugin-fw/licence/lib/yit-theme-licence.php:118
+msgid "%s"
+msgstr "%s"
+
+#: plugin-fw/licence/lib/yit-plugin-licence.php:67
+#: plugin-fw/licence/lib/yit-plugin-licence.php:68
+#: plugin-fw/licence/lib/yit-theme-licence.php:69
+#: plugin-fw/licence/lib/yit-theme-licence.php:70
+#: plugin-fw/licence/lib/yit-theme-licence.php:109
+#: plugin-fw/licence/lib/yit-theme-licence.php:110
+msgid "License Activation"
+msgstr "Activación de licencia"
+
+#: plugin-fw/licence/lib/yit-licence.php:688
+msgid "License key deactivated for website"
+msgstr "Clave de licencia desactivada para el sitio"
+
+#: plugin-fw/licence/lib/yit-licence.php:687
+msgid "License successfully activated"
+msgstr "Licencia activada con éxito"
+
+#: plugin-fw/licence/lib/yit-licence.php:687
+msgid "Great"
+msgstr "Genial"
+
+#: plugin-fw/licence/lib/yit-licence.php:685
+msgid "License key has been banned"
+msgstr "La clave de licencia ha sido bloqueada"
+
+#: plugin-fw/licence/lib/yit-licence.php:684
+msgid "License key has expired"
+msgstr "La clave de licencia ha caducado"
+
+#: plugin-fw/licence/lib/yit-licence.php:683
+msgid "Invalid security key"
+msgstr "Clave de seguridad no válida"
+
+#: plugin-fw/licence/lib/yit-licence.php:682
+msgid "Invalid instance ID"
+msgstr "Instancia de ID no válida"
+
+#: plugin-fw/licence/lib/yit-licence.php:681
+msgid "Maximum number of activations exceeded"
+msgstr "Número máximo de activaciones excedido"
+
+#: plugin-fw/licence/lib/yit-licence.php:680
+msgid "Software has been deactivated"
+msgstr "El software ha sido desactivado"
+
+#: plugin-fw/licence/lib/yit-licence.php:679
+msgid "Invalid license key"
+msgstr "Clave de licencia no válida"
+
+#: plugin-fw/licence/lib/yit-licence.php:678
+msgid "Invalid Request"
+msgstr "Solicitud no válida"
+
+#: plugin-fw/licence/lib/yit-licence.php:192
+msgid "Are you sure you want to deactivate the license for current site?"
+msgstr "¿Estás seguro de que quieres desactivar la licencia para el sitio actual?"
+
+#: plugin-fw/licence/lib/yit-licence.php:191
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:89
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:167
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:198
+msgid "License Key"
+msgstr "Clave de licencia"
+
+#: plugin-fw/licence/lib/yit-licence.php:190
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:88
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:166
+#: plugin-fw/licence/templates/panel/activation/activation-panel.php:197
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: plugin-fw/licence/lib/yit-licence.php:189
+msgid "Unable to contact the remote server, please try again later. Thanks!"
+msgstr "No ha sido posible contactar con el servidor remoto, por favor, inténtalo de nuevo más tarde. ¡Gracias!"
+
+#: plugin-fw/licence/lib/yit-licence.php:188
+msgid "%s and %s fields cannot be empty"
+msgstr "Los campos %s y %s no pueden estar vacíos"
+
+#: plugin-fw/licence/lib/yit-licence.php:187
+msgctxt "%s = field name"
+msgid "%s field cannot be empty"
+msgstr "El campo %s no puede estar vacío"
+
+#: plugin-fw/lib/yit-upgrade.php:585
+msgid "Update Plugin"
+msgstr "Actualizar plugin"
+
+#: plugin-fw/lib/yit-upgrade.php:578
+msgid "You do not have sufficient permissions to update the plugins for this site."
+msgstr "No tienes suficientes permisos para actualizar los plugins para este sitio."
+
+#: plugin-fw/lib/yit-upgrade.php:574
+msgid "You can't update the plugins for this site."
+msgstr "No puedes actualizar los plugins para este sitio."
+
+#: plugin-fw/lib/yit-upgrade.php:501
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a> or <a href=\"%5$s\">update now</a>."
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver versión %4$s detallada</a> o <a href=\"%5$s\">actualizar ahora</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:499
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>Automatic update is unavailable for this plugin, please <a href=\"%5$s\" title=\"License activation\">activate</a> your copy of %6s.</em>"
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver versión %4$s detallada</a>. <em>La actualización automática no está disponible para este plugin, por favor <a href=\"%5$s\" title=\"License activation\">activa</a> tu copia de %6s.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:497
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>. <em>You have to activate the plugin on a single site of the network to benefit from automatic updates.</em>"
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver versión %4$s detallada</a>. <em>Tienes que activar el plugin en un sitio individual de la red para beneficiarte de actualizaciones automáticas.</em>"
+
+#: plugin-fw/lib/yit-upgrade.php:495
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">View version %4$s details</a>."
+msgstr "Hay una nueva versión de %1$s disponible. <a href=\"%2$s\" class=\"thickbox yit-changelog-button open-plugin-details-modal\" title=\"%3$s\">Ver versión %4$s detallada</a>."
+
+#: plugin-fw/lib/yit-upgrade.php:335
+msgid "Could not create Temporary file."
+msgstr "No se pudo crear un archivo temporal."
+
+#: plugin-fw/lib/yit-upgrade.php:322
+msgid "Invalid URL Provided."
+msgstr "Provista URL no válida."
+
+#: plugin-fw/lib/yit-upgrade.php:288
+msgid "YIThemes Repository"
+msgstr "Repositorio de YIThemes"
+
+#: plugin-fw/lib/yit-upgrade.php:188
+msgid "Update now."
+msgstr "Actualizar ahora."
+
+#: plugin-fw/lib/yit-upgrade.php:187
+msgid "please <a href=\"%activate_link%\">activate</a> your copy of %plugin_name%."
+msgstr "por favor <a href=\"%activate_link%\">activa</a> tu copia de %plugin_name%."
+
+#: plugin-fw/lib/yit-upgrade.php:186
+msgid "Automatic update is unavailable for this plugin,"
+msgstr "La actualización automática no está disponible para este plugin,"
+
+#: plugin-fw/lib/yit-upgrade.php:185
+msgid "View version %latest% details."
+msgstr "Ver %última% versión detallada."
+
+#: plugin-fw/lib/yit-upgrade.php:184
+msgid "There is a new version of %plugin_name% available."
+msgstr "Hay una nueva versión de %plugin_name% disponible."
+
+#: plugin-fw/lib/yit-pointers.php:85
+msgid ""
+"From now on, you can find the option panel of YITH plugins in YITH Plugins menu.\n"
+"                                    Every time one of our plugins is added, a new entry will be added to this menu.\n"
+"                                    For example, after the update, plugin options (such as for YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.)\n"
+"                                    will be moved from previous location to YITH Plugins tab."
+msgstr ""
+"A partir de ahora, puedes encontrar el panel de opciones de plugins de YITH en el menú de plugins de YITH.\n"
+"                                     Cada vez que se agrega uno de nuestros plugins, se agregará una nueva entrada a este menú.\n"
+"                                     Por ejemplo, después de la actualización, las opciones de plugins (como por ejemplo, YITH WooCommerce Wishlist, YITH WooCommerce Ajax Search, etc.) \n"
+"                                     se moverá de la ubicación anterior a la pestaña de YITH Plugins."
+
+#: plugin-fw/lib/yit-pointers.php:84
+msgid "Plugins Upgraded"
+msgstr "Plugins mejorados"
+
+#: plugin-fw/lib/yit-pointers.php:74 plugin-fw/lib/yit-pointers.php:90
+msgid "and"
+msgstr "y"
+
+#: plugin-fw/lib/yit-pointers.php:73 plugin-fw/lib/yit-pointers.php:89
+msgid "Discover all our plugins available on:"
+msgstr "Descubre todos nuestros plugins disponibles en:"
+
+#: plugin-fw/lib/yit-pointers.php:71
+msgid ""
+"From now on, you can find all plugin options in YITH Plugins menu.\n"
+"                                     Plugin customization settings will be available as a new entry in YITH Plugins menu."
+msgstr ""
+"A partir de ahora, puedes encontrar todas las opciones de los plugins en el menú de plugins de YITH.\n"
+"                                      La configuración de personalización del plugin estará disponible como una nueva entrada en el menú de plugins de YITH."
+
+#: plugin-fw/lib/yit-pointers.php:70
+msgid "Plugins Activated"
+msgstr "Plugins activados"
+
+#: plugin-fw/lib/yit-plugin-panel.php:534
+msgid "Sorting successful."
+msgstr "Clasificación con éxito."
+
+#: plugin-fw/lib/yit-plugin-panel.php:533
+msgid "Sorry, import is disabled."
+msgstr "Lo siento, la importación está desactivada"
+
+#: plugin-fw/lib/yit-plugin-panel.php:532
+msgid "The added file is not valid."
+msgstr "El archivo añadido es no válido."
+
+#: plugin-fw/lib/yit-plugin-panel.php:531
+msgid "An error has occurred during import. Please try again."
+msgstr "Ocurrió un error durante la importación. Por favor, inténtalo de nuevo."
+
+#: plugin-fw/lib/yit-plugin-panel.php:530
+msgid "Database imported correctly."
+msgstr "Base de datos importada correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:528
+#: plugin-fw/lib/yit-plugin-panel.php:529
+msgid "Element updated correctly."
+msgstr "Elemento actualizado correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:527
+msgid "Element deleted correctly."
+msgstr "Elemento borrado correctamente."
+
+#: plugin-fw/lib/yit-plugin-panel.php:526
+msgid "Settings reset"
+msgstr "Restablecer ajustes"
+
+#: plugin-fw/lib/yit-plugin-panel.php:525
+msgid "Settings saved"
+msgstr "Ajustes guardados"
+
+#: plugin-fw/lib/yit-plugin-panel.php:524
+msgid "The element you have entered already exists. Please, enter another name."
+msgstr "El elemento que has introducido ya existe. Por favor, elige otro nombre."
+
+#: plugin-fw/lib/yit-plugin-panel.php:390
+#: plugin-fw/lib/yit-plugin-subpanel.php:161
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:18
+msgid "Are you sure?"
+msgstr "¿Estás seguro?"
+
+#: plugin-fw/lib/yit-plugin-panel.php:389
+#: plugin-fw/lib/yit-plugin-subpanel.php:160
+msgid "Reset to default"
+msgstr "Restablecer a valores por defecto"
+
+#: plugin-fw/lib/yit-plugin-panel.php:387
+#: plugin-fw/lib/yit-plugin-subpanel.php:158
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:14
+msgid "If you continue with this action, you will reset all options in this page."
+msgstr "Si sigues con esta acción restablecerás todas las opciones de esta página."
+
+#: plugin-fw/lib/yit-plugin-panel.php:384
+#: plugin-fw/lib/yit-plugin-subpanel.php:155
+#: plugin-fw/templates/panel/woocommerce/woocommerce-form.php:11
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: plugin-fw/lib/yit-plugin-panel.php:330
+#: plugin-fw/lib/yit-plugin-panel.php:333
+msgid "How to install premium version"
+msgstr "Cómo instalar la versión premium"
+
+#: plugin-fw/lib/yit-plugin-panel.php:72
+msgid "Plugin Settings"
+msgstr "Ajustes del plugin"
+
+#: plugin-fw/lib/yit-plugin-panel-wc.php:382
+msgid "The changes you have made will be lost if you leave this page."
+msgstr "Los cambios que has hecho se perderán si abandonas esta página."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1633
+msgid "Upload multiple files"
+msgstr "Subir varios archivos"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1631
+msgid "Add %s from images"
+msgstr "Añadir %s desde imágenes"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1482
+#: plugin-fw/templates/fields/customtabs.php:46
+#: plugin-fw/templates/fields/customtabs.php:89
+msgid "Name"
+msgstr "Nombre"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1475
+msgid "Show frontend of the %s"
+msgstr "Mostrar la portada del %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1222
+#: plugin-fw/lib/yit-cpt-unlimited.php:1235
+msgid "Quick links"
+msgstr "Enlaces rápidos"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1130
+msgid "layout settings"
+msgstr "ajustes de plantilla"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1089
+msgid "Layout for single page of this portfolio"
+msgstr "Plantilla para la página de este portafolio"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1088
+msgid "Single layout"
+msgstr "Diseño simple"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1083
+msgid "Set univocal name for each category page URL."
+msgstr "Estableces nombre unívoco para cada URL de categoría de página."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1082
+msgid "Taxonomy Rewrite"
+msgstr "Rescribir taxonomía"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1077
+msgid "If you want to use categories in the portfolio, set a name for taxonomy. Name should be a slug (must not contain capital letters nor spaces) and must not be more than 32 characters long (database structure restriction)."
+msgstr "Si quieres usar categorías en el porfolio, establece un nombre para la taxonomía. El nombre debe ser un slug (no debe contener mayúsculas ni espacios) y no debe tener más de 32 caracteres de longitud (restricción de la estructura de la base de datos)."
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1076
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1071
+msgid "Set a label in plural (title of portfolio if empty)"
+msgstr "Establece una etiqueta en plural (título del porfolio si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1070
+msgid "Label in Plural"
+msgstr "Etiqueta en plural"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1065
+msgid "Set a label in singular (title of portfolio if empty)"
+msgstr "Establece una etiqueta en singular (título del porfolio si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1064
+msgid "Label in Singular"
+msgstr "Etiqueta en singular"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1059
+msgid "Univocal identification name in the URL for each product (slug from post if empty)"
+msgstr "Nombre de indentificación unívoca en la URL para cada producto (slug de la publicación si está vacío)"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1058
+msgid "Rewrite"
+msgstr "Sobrescribir"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1052
+msgid "Layout for this %s"
+msgstr "Diseño para esta %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1051
+msgid "Type"
+msgstr "Tipo"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:1042
+msgid "%s Settings"
+msgstr "%s ajustes"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:724
+msgid "Categories"
+msgstr "Categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:635
+msgid "Category"
+msgstr "Categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:634
+msgid "New Category Name"
+msgstr "Nuevo nombre de categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:633
+msgid "Add New Category"
+msgstr "Añadir nueva categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:632
+msgid "Update Category"
+msgstr "Actualizar categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:631
+msgid "Edit Category"
+msgstr "Editar categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:630
+msgid "Parent Category:"
+msgstr "Categoría superior:"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:629
+msgid "Parent Category"
+msgstr "Categoría superior"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:628
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:627
+#: plugin-fw/templates/fields/ajax-terms.php:57
+msgid "Search Categories"
+msgstr "Buscar categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:626
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "Categoría"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:625
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s categorías"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:468
+#: plugin-fw/lib/yit-cpt-unlimited.php:582
+msgid "No %s found in Trash"
+msgstr "Ninguna %s en la papelera"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:467
+#: plugin-fw/lib/yit-cpt-unlimited.php:581
+msgid "No %s found"
+msgstr "Ninguna %s encontrada"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:466
+#: plugin-fw/lib/yit-cpt-unlimited.php:580
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:465
+#: plugin-fw/lib/yit-cpt-unlimited.php:579
+#: plugin-fw/lib/yit-cpt-unlimited.php:1251
+#: plugin-fw/lib/yit-cpt-unlimited.php:1305
+msgid "View %s"
+msgstr "Ver %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:464
+#: plugin-fw/lib/yit-cpt-unlimited.php:578
+msgid "All %s"
+msgstr "Todas las %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:463
+#: plugin-fw/lib/yit-cpt-unlimited.php:577
+msgid "New %s"
+msgstr "Nueva %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:462
+#: plugin-fw/lib/yit-cpt-unlimited.php:576
+#: plugin-fw/lib/yit-cpt-unlimited.php:1267
+#: plugin-fw/lib/yit-cpt-unlimited.php:1304
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:461
+#: plugin-fw/lib/yit-cpt-unlimited.php:575
+msgid "Add New %s"
+msgstr "Añadir nueva %s"
+
+#: plugin-fw/lib/yit-cpt-unlimited.php:460
+#: plugin-fw/lib/yit-cpt-unlimited.php:574
+#: plugin-fw/lib/yit-cpt-unlimited.php:719
+#: plugin-fw/lib/yit-cpt-unlimited.php:1632
+msgid "Add %s"
+msgstr "Añadir %s"
+
+#: init.php:52
+msgid "You can't activate the free version of YITH WooCommerce Quick View while you are using the premium one."
+msgstr "No puedes activar la versión gratuita de YITH WooCommerce Quick View si ya estás usando la versión premium."
+
+#: init.php:43
+msgid "YITH WooCommerce Quick View is enabled but not effective. It requires WooCommerce in order to work."
+msgstr "YITH WooCommerce Quick View está activo pero no efectivo. Requiere que WooCommerce esté activo para funcionar."
+
+#: includes/class.yith-wcqv-admin.php:213
+msgid "Plugin Documentation"
+msgstr "Documentación del plugin"
+
+#: includes/class.yith-wcqv-admin.php:158
+#: includes/class.yith-wcqv-admin.php:159
+#: plugin-options/settings-options.php:34
+msgid "Quick View"
+msgstr "Vista rápida"
+
+#: includes/class.yith-wcqv-admin.php:130
+#: includes/class.yith-wcqv-admin.php:152
+msgid "Premium Version"
+msgstr "Versión premium"
+
+#: includes/class.yith-wcqv-admin.php:129
+#: includes/class.yith-wcqv-admin.php:151
+#: plugin-fw/lib/yit-cpt-unlimited.php:1048
+#: plugin-fw/lib/yit-cpt-unlimited.php:1196
+#: plugin-fw/lib/yit-cpt-unlimited.php:1202
+#: plugin-fw/lib/yit-plugin-panel.php:73
+msgid "Settings"
+msgstr "Ajustes"
